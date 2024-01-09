@@ -1,3 +1,3 @@
 export default async function Page() {
-  return null;
+  return <div className="bg-rose-600 h-[100%]">reda </div>;
 }
